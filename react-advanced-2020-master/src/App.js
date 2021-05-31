@@ -1,6 +1,6 @@
 import React from 'react'
 // import Setup from './tutorial/1-useState/setup/1-error-example'
-import Setup from './tutorial/2-useEffect/setup/1-useEffect-basics'
+import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup'
 
 function App() {
   return (
